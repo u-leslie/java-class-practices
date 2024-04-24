@@ -1,0 +1,16 @@
+package collections;
+import java.util.*;
+
+ class CollectionMain {
+    public static void main(String[] args) {
+        // Create a collection
+    Collection c =new ArrayList();
+    c.add(1);
+    c.add(3); 
+    
+    for(Object o:c){
+    int k=(Integer)o;
+    System.out.println(k*2);
+    }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    bonjour")
+    }
+}
